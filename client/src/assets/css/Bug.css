@@ -1,0 +1,65 @@
+
+  
+  .BUGadmin-form {
+    width: 100%;
+    max-width: 550px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    background-color: #f2f2f2;
+    border-radius: 8px;
+  }
+  
+  h1.BUGform-heading{
+    font-size: 50px;
+    font-weight: 800;
+
+  }
+  .BUGform-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+  }
+  
+  .BUGform-group label {
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .BUGform-input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    transition: border 0.3s ease;
+  }
+  
+  .BUGform-input:focus {
+    border-color: #3575E2;
+    outline: none;
+  }
+  
+  .BUGform-submit {
+    padding: 10px 20px;
+    background-color: #3575E2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.3s ease;
+  }
+  
+  .BUGform-submit:hover {
+    background-color: #2458b3;
+  }
+
+  
+  .BUGform-heading {
+    text-align: center;
+    color: #3575E2;
+    margin-bottom: 20px;
+  }
+  
+  

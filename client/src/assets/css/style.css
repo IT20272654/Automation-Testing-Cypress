@@ -1,0 +1,34 @@
+
+.our-services .single-services 
+.services-ion span{
+  font-size:40px;
+    margin-bottom:13px;
+    color:#000000;
+ 
+  }
+  .our-services .single-services .services-cap h5 a{
+    font-weight:600;
+    font-size:18px;
+    color:#000000;
+    line-height:1.4;
+  
+  }
+    .our-services .single-services .services-cap span
+    {
+      color:#000000;
+      font-size:18px
+    }
+   
+    .our-services .single-services:hover .services-ion span
+    {
+      color:#3575E2
+    }.our-services .single-services:hover .services-cap h5 a
+    {
+      color:#3575E2
+    }
+
+    .border-btn2{border:1px solid #8b92dd;color:#8b92dd;font:"Muli",sans-serif;background:none;-moz-user-select:none;padding:19px 69px;margin:0px;text-transform:uppercase;cursor:pointer;display:inline-block;font-size:14px;font-weight:500;letter-spacing:1px;margin-bottom:0;border-radius:5px;position:relative;transition:color 0.4s linear;position:relative;overflow:hidden;margin:0}@media (max-width: 767px){.border-btn2{padding:19px 30px}}.border-btn2::before{border:1px solid transparent;content:"";position:absolute;left:0;top:0;width:101%;height:101%;background:#8b92dd;z-index:-1;transition:transform 0.5s;transition-timing-function:ease;transform-origin:0 0;transition-timing-function:cubic-bezier(0.5, 1.6, 0.4, 0.7);transform:scaleY(0);border-radius:0px}
+    .border-btn2:hover::before{transform:scaleY(1);order:2px solid transparent}.breadcrumb>.active{color:#888}#scrollUp{background:#fb246a;height:50px;width:50px;right:31px;bottom:18px;color:#fff;font-size:20px;text-align:center;border-radius:50%;line-height:48px;border:2px solid transparent}
+    
+    
+    
